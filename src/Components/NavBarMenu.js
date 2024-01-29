@@ -7,7 +7,7 @@ export default function NavBarMenu() {
     
     return(
         <div>
-        <Navbar bg="primary" variant="dark" className="bg-body-tertiary">
+        <Navbar bg="dark" variant="dark" >
             <Container>
                 <Navbar.Brand href="#!">
                     Generador de <b>Facturas</b>
