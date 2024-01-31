@@ -6,6 +6,7 @@ import NavBarMenu from './Components/NavBarMenu';
 function App() {
   return (
     <div>
+
      <NavBarMenu />
     <Introduction />
     <Formulario />
